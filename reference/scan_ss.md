@@ -3,7 +3,7 @@
 Generates a Regional Association Score (RAS) profile using only summary
 statistics. For each pivotal SNP, it runs an adaptive window scan,
 calculates the burden statistic
-[`t_burden`](https://anson-li8.github.io/rasSS/reference/t_burden.md),
+[`t_burden`](https://shan-team.github.io/RAS_GWAS_Summary/reference/t_burden.md),
 and keeps the minimum p-value (highest RAS) across the grid.
 
 ## Usage
