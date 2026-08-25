@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/anson-li8/rasSS/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/anson-li8/rasSS/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/shan-team/RAS_GWAS_Summary/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/shan-team/RAS_GWAS_Summary/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 rasSS (<u>R</u>egional <u>A</u>ssociation <u>S</u>core <u>S</u>ummary
@@ -33,7 +33,7 @@ You can install the development version of rasSS from Github with:
 
 ``` r
 # install.packages("pak")
-pak::pak("anson-li8/rasSS")
+pak::pak("shan-team/RAS_GWAS_Summary")
 ```
 
 ## Example
