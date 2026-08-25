@@ -9,16 +9,16 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/shan-team/RAS_GWAS_Summary/blob/master/DESCRIPTION)
+[`inst/CITATION`](https://github.com/shan-team/RAS_GWAS_Summary/blob/master/inst/CITATION)
 
-Li A, Han S (2026). *rasSS: What the Package Does (One Line, Title
-Case)*. R package version 0.0.0.9000,
+Li A, Han S (2026). *rasSS: Summary-Statistic Extension of the Regional
+Association Score*. R package,
 <https://github.com/shan-team/RAS_GWAS_Summary>.
 
     @Manual{,
-      title = {rasSS: What the Package Does (One Line, Title Case)},
+      title = {rasSS: Summary-Statistic Extension of the Regional Association Score},
       author = {Anson Li and Shengtong Han},
       year = {2026},
-      note = {R package version 0.0.0.9000},
+      note = {R package},
       url = {https://github.com/shan-team/RAS_GWAS_Summary},
     }

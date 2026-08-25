@@ -200,7 +200,7 @@ Show code
 <span>    <span class="va">null_con</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/connections.html" class="external-link">file</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/showConnections.html" class="external-link">nullfile</a></span><span class="op">(</span><span class="op">)</span>, open <span class="op">=</span> <span class="st">"wt"</span><span class="op">)</span></span>
 <span>    <span class="fu"><a href="https://rdrr.io/r/base/sink.html" class="external-link">sink</a></span><span class="op">(</span><span class="va">null_con</span>, type <span class="op">=</span> <span class="st">"output"</span><span class="op">)</span></span>
 <span>    <span class="fu"><a href="https://rdrr.io/r/base/sink.html" class="external-link">sink</a></span><span class="op">(</span><span class="va">null_con</span>, type <span class="op">=</span> <span class="st">"message"</span><span class="op">)</span></span>
-<span>    <span class="va">cp</span> <span class="op">&lt;-</span> <span class="fu">ras_detect</span><span class="op">(</span></span>
+<span>    <span class="va">cp</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/pkg/RAS/man/ras_detect.html" class="external-link">ras_detect</a></span><span class="op">(</span></span>
 <span>      x <span class="op">=</span> <span class="va">scan</span><span class="op">$</span><span class="va">x</span>, y <span class="op">=</span> <span class="va">scan</span><span class="op">$</span><span class="va">y</span>,</span>
 <span>      window_size                    <span class="op">=</span> <span class="va">window_size</span>,</span>
 <span>      slope_check_window_size        <span class="op">=</span> <span class="va">scw</span>,</span>
@@ -208,7 +208,7 @@ Show code
 <span>      slope.p.values.threshold.right <span class="op">=</span> <span class="va">slope_thresh</span></span>
 <span>    <span class="op">)</span></span>
 <span>    <span class="co"># second pass: local Davies validation</span></span>
-<span>    <span class="va">val</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/warning.html" class="external-link">suppressWarnings</a></span><span class="op">(</span><span class="fu">ras_validate</span><span class="op">(</span></span>
+<span>    <span class="va">val</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/warning.html" class="external-link">suppressWarnings</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/pkg/RAS/man/ras_validate.html" class="external-link">ras_validate</a></span><span class="op">(</span></span>
 <span>      this.result <span class="op">=</span> <span class="va">cp</span>, x <span class="op">=</span> <span class="va">scan</span><span class="op">$</span><span class="va">x</span>, y <span class="op">=</span> <span class="va">scan</span><span class="op">$</span><span class="va">y</span>,</span>
 <span>      this.start <span class="op">=</span> <span class="fl">1</span>, this.skip <span class="op">=</span> <span class="va">skip1</span>,</span>
 <span>      second_window_size <span class="op">=</span> <span class="fl">15</span>, min_signal <span class="op">=</span> <span class="fl">2.5</span>,</span>
