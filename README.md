@@ -6,8 +6,6 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/shan-team/RAS_GWAS_Summary/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/shan-team/RAS_GWAS_Summary/actions/workflows/R-CMD-check.yaml)
-[![Codecov test
-coverage](https://codecov.io/gh/shan-team/rasSS/graph/badge.svg)](https://app.codecov.io/gh/shan-team/rasSS)
 <!-- badges: end -->
 
 rasSS (<u>R</u>egional <u>A</u>ssociation <u>S</u>core <u>S</u>ummary
