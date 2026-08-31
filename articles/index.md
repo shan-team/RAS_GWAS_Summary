@@ -2,6 +2,8 @@
 
 ### All vignettes
 
+- [Getting started with Summary-statistic regional association
+  scanning](https://shan-team.github.io/RAS_GWAS_Summary/articles/get-started.md):
 - [Paper Replication
   (1000-SNP)](https://shan-team.github.io/RAS_GWAS_Summary/articles/paper-replication.md):
 - [Pilot Study (300-SNP

@@ -11,7 +11,7 @@
 - [`prune_ld()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/prune_ld.md)
   : Greedy LD pruning
 - [`quiet()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/quiet.md)
-  : Suppress stdout and messages
+  : Suppress stdout, messages, and warnings
 - [`scan_ss()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/scan_ss.md)
   : Summary-Statistic RAS Profile Generation.
 - [`sim_genotypes()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/sim_genotypes.md)
