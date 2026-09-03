@@ -2,19 +2,19 @@
 
 ## All functions
 
-- [`get_marginal_stats()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/get_marginal_stats.md)
+- [`get_marginal_stats()`](https://anson-li8.github.io/rasSS/reference/get_marginal_stats.md)
   : Marginal GWAS statistics for continuous trait
-- [`get_marginal_stats_bin()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/get_marginal_stats_bin.md)
+- [`get_marginal_stats_bin()`](https://anson-li8.github.io/rasSS/reference/get_marginal_stats_bin.md)
   : Marginal GWAS statistics for binary trait
-- [`make_pheno()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/make_pheno.md)
+- [`make_pheno()`](https://anson-li8.github.io/rasSS/reference/make_pheno.md)
   : Simulate phenotype from causal effects
-- [`prune_ld()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/prune_ld.md)
+- [`prune_ld()`](https://anson-li8.github.io/rasSS/reference/prune_ld.md)
   : Greedy LD pruning
-- [`quiet()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/quiet.md)
-  : Suppress stdout, messages, and warnings
-- [`scan_ss()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/scan_ss.md)
+- [`quiet()`](https://anson-li8.github.io/rasSS/reference/quiet.md) :
+  Suppress stdout, messages, and warnings
+- [`scan_ss()`](https://anson-li8.github.io/rasSS/reference/scan_ss.md)
   : Summary-Statistic RAS Profile Generation.
-- [`sim_genotypes()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/sim_genotypes.md)
+- [`sim_genotypes()`](https://anson-li8.github.io/rasSS/reference/sim_genotypes.md)
   : Simulate genotypes from an LD matrix
-- [`t_burden()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/t_burden.md)
+- [`t_burden()`](https://anson-li8.github.io/rasSS/reference/t_burden.md)
   : Summary-Statistic Weighted Burden Statistic
