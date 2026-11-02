@@ -1,7 +1,7 @@
 # Pilot Study (300-SNP toy)
 
 *Pilot/tuning run. The main paper-style study is [Paper
-Replication](https://shan-team.github.io/RAS_GWAS_Summary/articles/paper-replication.md).*
+Replication](https://github.com/shan-team/RAS_GWAS_Summary/articles/paper-replication.md).*
 
 Show code
 

@@ -22,12 +22,12 @@ harmonize_two(disc, targ, bim, ld, freq_tol = 0.15)
 - bim:
 
   Output of
-  [`read_bim`](https://shan-team.github.io/RAS_GWAS_Summary/reference/read_bim.md).
+  [`read_bim`](https://github.com/shan-team/RAS_GWAS_Summary/reference/read_bim.md).
 
 - ld:
 
   Output of
-  [`ld_matrix`](https://shan-team.github.io/RAS_GWAS_Summary/reference/ld_matrix.md).
+  [`ld_matrix`](https://github.com/shan-team/RAS_GWAS_Summary/reference/ld_matrix.md).
 
 - freq_tol:
 

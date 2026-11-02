@@ -3,7 +3,7 @@
 Generates a Regional Association Score (RAS) profile using only summary
 statistics. For each pivotal SNP, the function scans windows at adaptive
 sizes, calculates the burden statistic
-[`t_burden`](https://shan-team.github.io/RAS_GWAS_Summary/reference/t_burden.md),
+[`t_burden`](https://github.com/shan-team/RAS_GWAS_Summary/reference/t_burden.md),
 and retains the minimum p-value (highest RAS) across window sizes to
 build the profile.
 
@@ -42,7 +42,7 @@ scan_ss(
 
   Logical vector. Indicates which SNPs are retained after LD pruning
   (e.g., from
-  [`prune_ld()`](https://shan-team.github.io/RAS_GWAS_Summary/reference/prune_ld.md)).
+  [`prune_ld()`](https://github.com/shan-team/RAS_GWAS_Summary/reference/prune_ld.md)).
 
 - skip1:
 

@@ -13,7 +13,7 @@ write_snp_list(sumstats, path)
 - sumstats:
 
   Output of
-  [`read_sumstats`](https://shan-team.github.io/RAS_GWAS_Summary/reference/read_sumstats.md).
+  [`read_sumstats`](https://github.com/shan-team/RAS_GWAS_Summary/reference/read_sumstats.md).
 
 - path:
 

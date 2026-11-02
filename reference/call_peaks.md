@@ -12,8 +12,8 @@ indices) back to base-pair positions.
 call_peaks(
   scan,
   bp_per_snp,
-  window_size = 100,
-  slope_check_window_size = 40,
+  window_size = 20,
+  slope_check_window_size = 8,
   slope_threshold = 1e-04,
   davies_threshold = 1e-05,
   min_signal = 2.5,
@@ -26,7 +26,7 @@ call_peaks(
 - scan:
 
   Output of
-  [`scan_ss`](https://shan-team.github.io/RAS_GWAS_Summary/reference/scan_ss.md).
+  [`scan_ss`](https://github.com/shan-team/RAS_GWAS_Summary/reference/scan_ss.md).
 
 - bp_per_snp:
 

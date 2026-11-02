@@ -12,8 +12,6 @@ Useful links:
 
 - <https://github.com/shan-team/RAS_GWAS_Summary>
 
-- <https://shan-team.github.io/RAS_GWAS_Summary/>
-
 - Report bugs at <https://github.com/shan-team/RAS_GWAS_Summary/issues>
 
 ## Author
