@@ -12,7 +12,6 @@ Extends the Regional Association Score (RAS) method of Jiang and Zhang (2025) to
 Useful links:
 \itemize{
   \item \url{https://github.com/shan-team/RAS_GWAS_Summary}
-  \item \url{https://shan-team.github.io/RAS_GWAS_Summary/}
   \item Report bugs at \url{https://github.com/shan-team/RAS_GWAS_Summary/issues}
 }
 
